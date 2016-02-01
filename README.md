@@ -13,3 +13,10 @@ A simple shell program implemented in C.
   - 'stop [processNum]' will pause execution of the process with the specified process number
   - 'start [processNum]' will resume execution of the currently stopped process witht the specified process number
 
+
+###Use:
+For use on Unix systems, navigate to the directory where main.c and Makefile are and type the following commands in the terminal:
+- make
+- ./shell
+
+Yes, this is as simple as a makefile can get, but any practice is good practice.
